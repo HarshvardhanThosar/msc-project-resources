@@ -125,12 +125,33 @@
           <mxGeometry x="150" y="290" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="V1zfUQ2QX6gt_F55pMcO-25" value="Retailers" style="strokeColor=none;shadow=1;strokeWidth=1;rounded=0;absoluteArcSize=1;arcSize=70;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=bottom;spacingLeft=0;fontColor=#999999;fontSize=12;whiteSpace=wrap;spacingBottom=2;html=1;glass=0;fillStyle=auto;gradientColor=none;" vertex="1" parent="1">
-          <mxGeometry x="150" y="190" width="60" height="80" as="geometry" />
+          <mxGeometry x="150" y="180" width="60" height="80" as="geometry" />
         </mxCell>
         <mxCell id="V1zfUQ2QX6gt_F55pMcO-26" value="" style="sketch=0;dashed=0;connectable=0;html=1;fillColor=#6d8764;strokeColor=#3A5431;shape=mxgraph.gcp2.retail;part=1;fontColor=#ffffff;strokeWidth=0;" vertex="1" parent="V1zfUQ2QX6gt_F55pMcO-25">
           <mxGeometry x="0.5" width="50" height="44.5" relative="1" as="geometry">
             <mxPoint x="-25" y="12.75" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="V1zfUQ2QX6gt_F55pMcO-31" value="&lt;span style=&quot;caret-color: rgb(153, 153, 153); color: rgb(153, 153, 153); white-space: normal;&quot;&gt;Users&lt;/span&gt;" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=#432D57;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#76608a;shape=mxgraph.mscae.intune.user_group;strokeWidth=0;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="510" y="190" width="50" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="V1zfUQ2QX6gt_F55pMcO-36" value="" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="270" width="260" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="V1zfUQ2QX6gt_F55pMcO-38" value="" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="280" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="V1zfUQ2QX6gt_F55pMcO-39" value="User1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="285" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="V1zfUQ2QX6gt_F55pMcO-40" value="..." style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="290" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="V1zfUQ2QX6gt_F55pMcO-41" value="" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="280" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="V1zfUQ2QX6gt_F55pMcO-42" value="UserN" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="285" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
