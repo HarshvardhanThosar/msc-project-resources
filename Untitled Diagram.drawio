@@ -1,24 +1,61 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1 Safari/605.1.15" version="24.8.3">
-  <diagram name="Page-1" id="ABz9VkYFGtSozzk2NsnT">
+  <diagram name="Page-1" id="Unzb4E8U5ZTZS8uVd5PU">
     <mxGraphModel>
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="2" value="Mobile Application" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="358" y="8" width="254" height="274" as="geometry" />
+        <mxCell id="2" value="Retailers Actions" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="182" y="8" width="152" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="3" value="Retailer Dashboard" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="8" y="36" width="198" height="218" as="geometry" />
+        <mxCell id="3" value="System" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="8" y="93" width="499" height="569" as="geometry" />
         </mxCell>
-        <mxCell id="4" value="Upload Food Items" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="33" y="71" width="148" height="148" as="geometry" />
+        <mxCell id="4" value="Retailer 1" style="shape=cylinder3;boundedLbl=1;backgroundOutline=1;size=10;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="3">
+          <mxGeometry x="168" y="83" width="85" height="64" as="geometry" />
         </mxCell>
-        <mxCell id="5" value="Claim Near-to-Expiry Food" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="383" y="43" width="204" height="204" as="geometry" />
+        <mxCell id="5" value="Retailers" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="3">
+          <mxGeometry x="70" y="46" width="354" height="139" as="geometry" />
         </mxCell>
-        <mxCell id="6" value="Sends data to" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;" edge="1" parent="1" source="4" target="5">
+        <mxCell id="6" value="Client App 1 - Dashboard" style="shape=cylinder3;boundedLbl=1;backgroundOutline=1;size=10;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="3">
+          <mxGeometry x="114" y="300" width="193" height="79" as="geometry" />
+        </mxCell>
+        <mxCell id="7" value="Database" style="shape=cylinder3;boundedLbl=1;backgroundOutline=1;size=10;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="3">
+          <mxGeometry x="270" y="476" width="81" height="63" as="geometry" />
+        </mxCell>
+        <mxCell id="8" value="Client App 2" style="shape=cylinder3;boundedLbl=1;backgroundOutline=1;size=10;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="3">
+          <mxGeometry x="357" y="306" width="103" height="67" as="geometry" />
+        </mxCell>
+        <mxCell id="9" value="Retailer 2" style="shape=cylinder3;boundedLbl=1;backgroundOutline=1;size=10;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="3">
+          <mxGeometry x="304" y="83" width="85" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="10" value="Submit data to" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.01;entryY=0.01;" edge="1" parent="3" source="6" target="7">
           <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
+            <Array as="points">
+              <mxPoint x="211" y="428" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="11" value="Lists near-to-expire food items" style="curved=1;startArrow=none;endArrow=block;exitX=0.06;exitY=1;entryX=0.33;entryY=0;" edge="1" parent="3" source="4" target="6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="129" y="185" />
+              <mxPoint x="129" y="242" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="12" value="Registers data" style="curved=1;startArrow=none;endArrow=block;exitX=1.01;exitY=0.98;entryX=0.71;entryY=0;" edge="1" parent="3" source="4" target="6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="307" y="185" />
+              <mxPoint x="307" y="242" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="13" value="Accesses system data" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.97;entryY=0.01;" edge="1" parent="3" source="8" target="7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="409" y="428" />
+            </Array>
           </mxGeometry>
         </mxCell>
       </root>
