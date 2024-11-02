@@ -67,10 +67,10 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="V1zfUQ2QX6gt_F55pMcO-1" value="" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="40" width="660" height="500" as="geometry" />
+          <mxGeometry x="10" y="10" width="660" height="500" as="geometry" />
         </mxCell>
-        <mxCell id="V1zfUQ2QX6gt_F55pMcO-4" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Redistribution System&lt;/h1&gt;&lt;h2 style=&quot;font-size: 11px;&quot;&gt;Celia&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;nbsp;is a digital platform connecting retailers with community members. Retailers can list their excess food on the platform, and community members can request assistance or volunteer to help others. Volunteers earn points for completing tasks, which can be redeemed for coupons from participating retailers.&lt;/span&gt;&lt;/h2&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="1">
-          <mxGeometry x="50" y="50" width="640" height="130" as="geometry" />
+        <mxCell id="V1zfUQ2QX6gt_F55pMcO-4" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Redistribution System&lt;/h1&gt;&lt;h2 style=&quot;font-size: 11px;&quot;&gt;Celia&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;nbsp;is a digital platform connecting retailers with community members. Retailers can list their excess food on the platform, and community members can request assistance or volunteer to help others. Volunteers earn points for completing tasks, which can be redeemed for coupons from participating retailers.&lt;/span&gt;&lt;/h2&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="20" width="640" height="130" as="geometry" />
         </mxCell>
         <mxCell id="V1zfUQ2QX6gt_F55pMcO-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="V1zfUQ2QX6gt_F55pMcO-9" target="V1zfUQ2QX6gt_F55pMcO-50">
           <mxGeometry relative="1" as="geometry" />
@@ -81,19 +81,19 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="V1zfUQ2QX6gt_F55pMcO-9" value="" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="410" width="110" height="40" as="geometry" />
+          <mxGeometry x="130" y="380" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="V1zfUQ2QX6gt_F55pMcO-10" value="Food Registry Service" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
-          <mxGeometry x="170" y="415" width="90" height="30" as="geometry" />
+          <mxGeometry x="140" y="385" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="V1zfUQ2QX6gt_F55pMcO-11" value="" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
-          <mxGeometry x="50" y="410" width="100" height="40" as="geometry" />
+          <mxGeometry x="20" y="380" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="V1zfUQ2QX6gt_F55pMcO-12" value="Authentication&lt;div&gt;Service&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
-          <mxGeometry x="70" y="415" width="60" height="30" as="geometry" />
+          <mxGeometry x="40" y="385" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="V1zfUQ2QX6gt_F55pMcO-3" value="" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;dashed=1;strokeColor=#CCCCCC;" vertex="1" parent="1">
-          <mxGeometry x="50" y="270" width="260" height="60" as="geometry" />
+          <mxGeometry x="20" y="240" width="260" height="60" as="geometry" />
         </mxCell>
         <mxCell id="V1zfUQ2QX6gt_F55pMcO-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="V1zfUQ2QX6gt_F55pMcO-19" target="V1zfUQ2QX6gt_F55pMcO-9">
           <mxGeometry relative="1" as="geometry" />
@@ -112,7 +112,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="V1zfUQ2QX6gt_F55pMcO-19" value="" style="group;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="60" y="280" width="80" height="40" as="geometry" />
+          <mxGeometry x="30" y="250" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="V1zfUQ2QX6gt_F55pMcO-5" value="" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="V1zfUQ2QX6gt_F55pMcO-19">
           <mxGeometry width="80" height="40" as="geometry" />
@@ -121,7 +121,7 @@
           <mxGeometry x="10" y="5" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="V1zfUQ2QX6gt_F55pMcO-20" value="" style="group;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="220" y="280" width="80" height="40" as="geometry" />
+          <mxGeometry x="190" y="250" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="V1zfUQ2QX6gt_F55pMcO-21" value="" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="V1zfUQ2QX6gt_F55pMcO-20">
           <mxGeometry width="80" height="40" as="geometry" />
@@ -130,10 +130,10 @@
           <mxGeometry x="10" y="5" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="V1zfUQ2QX6gt_F55pMcO-24" value="..." style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
-          <mxGeometry x="150" y="290" width="60" height="30" as="geometry" />
+          <mxGeometry x="120" y="260" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="V1zfUQ2QX6gt_F55pMcO-25" value="Retailers" style="strokeColor=none;shadow=1;strokeWidth=1;rounded=0;absoluteArcSize=1;arcSize=70;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=bottom;spacingLeft=0;fontColor=#999999;fontSize=12;whiteSpace=wrap;spacingBottom=2;html=1;glass=0;fillStyle=auto;gradientColor=none;" vertex="1" parent="1">
-          <mxGeometry x="150" y="180" width="60" height="80" as="geometry" />
+          <mxGeometry x="120" y="150" width="60" height="80" as="geometry" />
         </mxCell>
         <mxCell id="V1zfUQ2QX6gt_F55pMcO-26" value="" style="sketch=0;dashed=0;connectable=0;html=1;fillColor=#6d8764;strokeColor=#3A5431;shape=mxgraph.gcp2.retail;part=1;fontColor=#ffffff;strokeWidth=0;" vertex="1" parent="V1zfUQ2QX6gt_F55pMcO-25">
           <mxGeometry x="0.5" width="50" height="44.5" relative="1" as="geometry">
@@ -141,10 +141,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="V1zfUQ2QX6gt_F55pMcO-31" value="&lt;span style=&quot;caret-color: rgb(153, 153, 153); color: rgb(153, 153, 153); white-space: normal;&quot;&gt;Users&lt;/span&gt;" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=#432D57;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#76608a;shape=mxgraph.mscae.intune.user_group;strokeWidth=0;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="480" y="190" width="50" height="38" as="geometry" />
+          <mxGeometry x="450" y="160" width="50" height="38" as="geometry" />
         </mxCell>
         <mxCell id="V1zfUQ2QX6gt_F55pMcO-36" value="" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;dashed=1;strokeColor=#CCCCCC;" vertex="1" parent="1">
-          <mxGeometry x="320" y="270" width="370" height="60" as="geometry" />
+          <mxGeometry x="290" y="240" width="370" height="60" as="geometry" />
         </mxCell>
         <mxCell id="V1zfUQ2QX6gt_F55pMcO-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="V1zfUQ2QX6gt_F55pMcO-38" target="V1zfUQ2QX6gt_F55pMcO-43">
           <mxGeometry relative="1" as="geometry" />
@@ -157,8 +157,8 @@
         <mxCell id="V1zfUQ2QX6gt_F55pMcO-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="V1zfUQ2QX6gt_F55pMcO-38" target="V1zfUQ2QX6gt_F55pMcO-50">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="590" y="280" />
-              <mxPoint x="590" y="530" />
+              <mxPoint x="560" y="250" />
+              <mxPoint x="560" y="500" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -168,16 +168,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="V1zfUQ2QX6gt_F55pMcO-38" value="" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
-          <mxGeometry x="330" y="280" width="80" height="40" as="geometry" />
+          <mxGeometry x="300" y="250" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="V1zfUQ2QX6gt_F55pMcO-39" value="User1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="285" width="60" height="30" as="geometry" />
+          <mxGeometry x="310" y="255" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="V1zfUQ2QX6gt_F55pMcO-41" value="" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
-          <mxGeometry x="600" y="280" width="80" height="40" as="geometry" />
+          <mxGeometry x="570" y="250" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="V1zfUQ2QX6gt_F55pMcO-42" value="UserN" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
-          <mxGeometry x="610" y="285" width="60" height="30" as="geometry" />
+          <mxGeometry x="580" y="255" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="V1zfUQ2QX6gt_F55pMcO-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="V1zfUQ2QX6gt_F55pMcO-43" target="V1zfUQ2QX6gt_F55pMcO-38">
           <mxGeometry relative="1" as="geometry" />
@@ -188,16 +188,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="V1zfUQ2QX6gt_F55pMcO-43" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="410" width="100" height="40" as="geometry" />
+          <mxGeometry x="290" y="380" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="V1zfUQ2QX6gt_F55pMcO-45" value="Volunteer Task Service" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="330" y="415" width="80" height="30" as="geometry" />
+          <mxGeometry x="300" y="385" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="V1zfUQ2QX6gt_F55pMcO-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="V1zfUQ2QX6gt_F55pMcO-50" target="V1zfUQ2QX6gt_F55pMcO-38">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="490" y="505" />
-              <mxPoint x="490" y="300" />
+              <mxPoint x="460" y="475" />
+              <mxPoint x="460" y="270" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -207,16 +207,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="V1zfUQ2QX6gt_F55pMcO-50" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="270" y="480" width="85" height="50" as="geometry" />
+          <mxGeometry x="240" y="450" width="85" height="50" as="geometry" />
         </mxCell>
         <mxCell id="V1zfUQ2QX6gt_F55pMcO-51" value="Coupons Management System" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="285" y="490" width="60" height="30" as="geometry" />
+          <mxGeometry x="255" y="460" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="V1zfUQ2QX6gt_F55pMcO-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="V1zfUQ2QX6gt_F55pMcO-38" target="V1zfUQ2QX6gt_F55pMcO-50">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="540" y="290" />
-              <mxPoint x="540" y="518" />
+              <mxPoint x="510" y="260" />
+              <mxPoint x="510" y="488" />
             </Array>
           </mxGeometry>
         </mxCell>
