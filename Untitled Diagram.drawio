@@ -62,7 +62,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="1J4EV-nbbGI5h42pc2un" name="Page-2">
-    <mxGraphModel dx="1026" dy="606" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
+    <mxGraphModel dx="586" dy="346" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -179,7 +179,7 @@
             <mxPoint y="12" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="V1zfUQ2QX6gt_F55pMcO-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="V1zfUQ2QX6gt_F55pMcO-38" target="V1zfUQ2QX6gt_F55pMcO-72">
+        <mxCell id="V1zfUQ2QX6gt_F55pMcO-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=blockThin;endFill=1;" edge="1" parent="1" source="V1zfUQ2QX6gt_F55pMcO-38" target="V1zfUQ2QX6gt_F55pMcO-72">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="V1zfUQ2QX6gt_F55pMcO-75" value="Register&lt;div&gt;&amp;amp;&lt;/div&gt;&lt;div&gt;login&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="V1zfUQ2QX6gt_F55pMcO-74">
