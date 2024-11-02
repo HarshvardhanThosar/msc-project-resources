@@ -62,7 +62,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="1J4EV-nbbGI5h42pc2un" name="Page-2">
-    <mxGraphModel dx="165" dy="98" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
+    <mxGraphModel dx="342" dy="202" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -146,10 +146,14 @@
         <mxCell id="V1zfUQ2QX6gt_F55pMcO-36" value="" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;dashed=1;strokeColor=#CCCCCC;" vertex="1" parent="1">
           <mxGeometry x="290" y="230" width="370" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="V1zfUQ2QX6gt_F55pMcO-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=blockThin;startFill=1;endArrow=blockThin;endFill=1;" edge="1" parent="1" source="V1zfUQ2QX6gt_F55pMcO-38" target="V1zfUQ2QX6gt_F55pMcO-43">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="V1zfUQ2QX6gt_F55pMcO-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.125;exitY=0.998;exitDx=0;exitDy=0;entryX=0.203;entryY=0.002;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=blockThin;endFill=1;exitPerimeter=0;entryPerimeter=0;" edge="1" parent="1" source="V1zfUQ2QX6gt_F55pMcO-38" target="V1zfUQ2QX6gt_F55pMcO-43">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="310" y="380" />
+            </Array>
+          </mxGeometry>
         </mxCell>
-        <mxCell id="V1zfUQ2QX6gt_F55pMcO-47" value="Request assistance/&lt;div&gt;Volunteer assistance&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="V1zfUQ2QX6gt_F55pMcO-46">
+        <mxCell id="V1zfUQ2QX6gt_F55pMcO-47" value="Request&amp;nbsp;&lt;div&gt;assistance&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="V1zfUQ2QX6gt_F55pMcO-46">
           <mxGeometry x="-0.0889" y="-3" relative="1" as="geometry">
             <mxPoint x="3" y="-11" as="offset" />
           </mxGeometry>
@@ -192,7 +196,15 @@
         </mxCell>
         <mxCell id="V1zfUQ2QX6gt_F55pMcO-49" value="Reward Volunteers" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="V1zfUQ2QX6gt_F55pMcO-48">
           <mxGeometry x="-0.0333" y="1" relative="1" as="geometry">
-            <mxPoint y="12" as="offset" />
+            <mxPoint y="2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="V1zfUQ2QX6gt_F55pMcO-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;startArrow=blockThin;startFill=1;endArrow=none;endFill=0;" edge="1" parent="1" source="V1zfUQ2QX6gt_F55pMcO-43" target="V1zfUQ2QX6gt_F55pMcO-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="V1zfUQ2QX6gt_F55pMcO-66" value="Volunteer" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="V1zfUQ2QX6gt_F55pMcO-65">
+          <mxGeometry x="-0.3926" relative="1" as="geometry">
+            <mxPoint y="7" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="V1zfUQ2QX6gt_F55pMcO-43" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
