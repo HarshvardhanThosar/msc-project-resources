@@ -67,10 +67,18 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="V1zfUQ2QX6gt_F55pMcO-1" value="" style="rounded=0;whiteSpace=wrap;html=1;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="1">
-          <mxGeometry x="40" y="40" width="690" height="560" as="geometry" />
+          <mxGeometry x="40" y="40" width="550" height="560" as="geometry" />
         </mxCell>
         <mxCell id="V1zfUQ2QX6gt_F55pMcO-4" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Redistribution System&lt;/h1&gt;&lt;h2 style=&quot;font-size: 11px;&quot;&gt;Celia&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;nbsp;is a digital platform connecting retailers with community members. Retailers can list their excess food on the platform, and community members can request assistance or volunteer to help others. Volunteers earn points for completing tasks, which can be redeemed for coupons from participating retailers.&lt;/span&gt;&lt;/h2&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="1">
           <mxGeometry x="50" y="50" width="530" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="V1zfUQ2QX6gt_F55pMcO-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="V1zfUQ2QX6gt_F55pMcO-9" target="V1zfUQ2QX6gt_F55pMcO-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="V1zfUQ2QX6gt_F55pMcO-54" value="Register coupon" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="V1zfUQ2QX6gt_F55pMcO-53">
+          <mxGeometry x="-0.4909" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="V1zfUQ2QX6gt_F55pMcO-9" value="" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="410" width="110" height="40" as="geometry" />
@@ -138,6 +146,14 @@
         <mxCell id="V1zfUQ2QX6gt_F55pMcO-36" value="" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="270" width="260" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="V1zfUQ2QX6gt_F55pMcO-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="V1zfUQ2QX6gt_F55pMcO-38" target="V1zfUQ2QX6gt_F55pMcO-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="V1zfUQ2QX6gt_F55pMcO-47" value="Request assistance/&lt;div&gt;Volunteer assistance&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="V1zfUQ2QX6gt_F55pMcO-46">
+          <mxGeometry x="-0.0889" y="-3" relative="1" as="geometry">
+            <mxPoint x="3" y="-11" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="V1zfUQ2QX6gt_F55pMcO-38" value="" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="280" width="80" height="40" as="geometry" />
         </mxCell>
@@ -152,6 +168,39 @@
         </mxCell>
         <mxCell id="V1zfUQ2QX6gt_F55pMcO-42" value="UserN" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
           <mxGeometry x="500" y="285" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="V1zfUQ2QX6gt_F55pMcO-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="V1zfUQ2QX6gt_F55pMcO-43" target="V1zfUQ2QX6gt_F55pMcO-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="V1zfUQ2QX6gt_F55pMcO-49" value="Reward Volunteers" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="V1zfUQ2QX6gt_F55pMcO-48">
+          <mxGeometry x="-0.0333" y="1" relative="1" as="geometry">
+            <mxPoint y="17" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="V1zfUQ2QX6gt_F55pMcO-43" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="410" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="V1zfUQ2QX6gt_F55pMcO-45" value="Volunteer Task Service" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="330" y="415" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="V1zfUQ2QX6gt_F55pMcO-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="V1zfUQ2QX6gt_F55pMcO-50" target="V1zfUQ2QX6gt_F55pMcO-38">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="480" y="505" />
+              <mxPoint x="480" y="300" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="V1zfUQ2QX6gt_F55pMcO-56" value="Display available coupons" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="V1zfUQ2QX6gt_F55pMcO-55">
+          <mxGeometry x="-0.1842" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="V1zfUQ2QX6gt_F55pMcO-50" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="480" width="85" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="V1zfUQ2QX6gt_F55pMcO-51" value="Coupons Management System" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="285" y="490" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
